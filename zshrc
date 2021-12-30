@@ -66,3 +66,6 @@ export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
 sudo /etc/init.d/postgresql start
+export DISPLAY=172.20.96.1:0
+export DISPLAY=172.20.96.1:0
+export BROWSER='"/mnt/c/Program Files (x86)/Google/Chrome/Application/chrome.exe"'
